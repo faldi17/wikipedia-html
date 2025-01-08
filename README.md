@@ -1,2 +1,2 @@
-# faldipedia-html
-Membuat kloning wikipedia menggunakan HTML murni
+# wikipedia-html
+Membuat kloning Wikipedia menggunakan HTML murni
