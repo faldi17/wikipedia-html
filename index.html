@@ -10,6 +10,19 @@
         header {
             padding: 5px 38px;
         }
+        ul li {
+            float: left;
+            list-style-type: none;
+        }
+        ul li a {
+            text-decoration: none;
+            padding: 10px;
+            color: rgb(0, 105, 225);
+        }
+        ul li a:hover {
+            text-decoration: underline;
+            color: rgb(0, 91, 196);
+        }
     </style>
 </head>
 <body>
@@ -26,6 +39,14 @@
             <input type="text" placeholder="Telusuri Falpedia" style="height: 30px; width: 420px;">
             <button style="height: 36px; width: 50px; font-weight: bold;">Cari</button>
         </div>
+
+        <ul style="float: right;">
+            <li><a href="">Donasi</a></li>
+            <li><a href="">Buat Akun</a></li>
+            <li><a href="">Login</a></li>
+        </ul>
+
+        <img src="three-dots.png" alt="Three Dots" style="position: absolute; right: 20px; top: 30px; z-index: -1; width: 16px; cursor: pointer;">
     </header>
 </body>
 </html>
