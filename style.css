@@ -21,7 +21,6 @@ small a {
 }
 small a:hover {
     text-decoration: underline;
-    color: rgb(255, 255, 255);
 }
 
 nav {
