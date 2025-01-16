@@ -66,10 +66,34 @@ article h1 {
     font-weight: normal;
     font-size: 30px;
 }
+article h2 {
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 25px;
+}
 article p {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 30px;
 }
 article p .blue {
-    color: blue;
+    color: #36c;
+}
+article .hubunganHistoris {
+    background-color: #B0C4DE;
+    border: 1px solid lightgray;
+    padding-left: 16px;
+}
+article .hubunganHistoris .title {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    text-align: center;
+    padding-top: 16px;
+}
+article .hubunganHistoris p {
+    font-size: 16px;
+    line-height: 26px;
+}
+article .twoColumn {
+    word-wrap: break-word;
 }
