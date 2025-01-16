@@ -79,6 +79,9 @@ article p {
 article p .blue {
     color: #36c;
 }
+article p .red {
+    color: rgb(204, 51, 51);
+}
 article .hubunganHistoris {
     background-color: #B0C4DE;
     border: 1px solid lightgray;
@@ -93,7 +96,4 @@ article .hubunganHistoris .title {
 article .hubunganHistoris p {
     font-size: 16px;
     line-height: 26px;
-}
-article .twoColumn {
-    word-wrap: break-word;
 }
