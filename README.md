@@ -1,2 +1,2 @@
 # wikipedia-html
-Membuat kloning Wikipedia menggunakan HTML murni
+Membuat kloning sederhana wikipedia untuk menerapkan pembelajaran HTML
